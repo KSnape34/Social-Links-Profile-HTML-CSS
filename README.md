@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -23,7 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Social Links Profile](./assets/images/Blog%20Preview%20Card.png)
+![Social Media Links Profile](https://github.com/user-attachments/assets/dee68a47-5a23-4f39-ab0c-51114ff0732c)
+eview%20Card.png)
 
 
 ### Links
