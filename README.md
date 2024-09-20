@@ -24,7 +24,6 @@ Users should be able to:
 ### Screenshot
 
 ![Social Media Links Profile](https://github.com/user-attachments/assets/dee68a47-5a23-4f39-ab0c-51114ff0732c)
-eview%20Card.png)
 
 
 ### Links
