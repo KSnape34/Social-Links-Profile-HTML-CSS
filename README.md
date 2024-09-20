@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Social Links Profile](https://your-live-site-url.com)
+- Live Site URL: [Social Links Profile](https://ksnape34.github.io/Social-Links-Profile-HTML-CSS/)
 
 ## My process
 
